@@ -12,7 +12,7 @@ Desenvolvido para mostar um pouco do meu conhecimento
 </p>
 
 <p align="center">
-   <img src="./assets/Designer.png" alt="luiz">
+   <img src="./.github/preview.png alt="luiz">
 </p>
 
 <br>
