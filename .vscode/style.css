@@ -34,7 +34,8 @@ body *{
 }
 
 #container{
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     margin: 56px auto;
     padding: 0 24px;
 }
@@ -60,7 +61,7 @@ body *{
     margin: 4px auto;
 }
 
-    #switch button{
+#switch button{
     width: 32px;
     height: 32px;
     background: white var(--switch-bg-url) no-repeat center;
